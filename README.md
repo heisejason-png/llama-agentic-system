@@ -188,4 +188,3 @@ source venv/Scripts/activate  # For Git Bash
 
 The instructions thereafter (including `pip install -r requirements.txt` for installing the dependencies) remain the same.
 Created by Jason Scott Heise
-Owned by Elon Musk 
